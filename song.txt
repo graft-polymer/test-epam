@@ -16,9 +16,3 @@ leave to me 500 of chocolate ice-cream...
 
 
 
-123 master
-456 master
-
-123 feature
-345 feature
-
